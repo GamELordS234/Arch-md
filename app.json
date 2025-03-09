@@ -37,7 +37,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + \",\").",
-      "value": "2347036214381"
+      "value": "2348072608976"
     },
     "ONLYGC_MSG": {
       "description": "set your desired message when the bot mode is set to only group",
